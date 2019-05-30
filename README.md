@@ -1,8 +1,5 @@
 # Data Science Curriculum
 
-## TODO
-- [ ] Add Data Engineering curriculum/resources
-
 ### Goals
 - Broad not narrow focus (i.e. more than deep learning)
 - Emphasis on fundamentals: theory over technology
@@ -41,6 +38,9 @@
 - [Data Skeptic] by Kyle Polich
 - [Naked Statistics: Stripping the Dread from the Data] by Charles Wheelan
 - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy] by Cathy O'Neil
+
+## TODO
+- [ ] Add Data Engineering curriculum/resources
 
 
 [Data Skeptic]: https://www.dataskeptic.com/
