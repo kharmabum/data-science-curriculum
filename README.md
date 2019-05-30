@@ -1,5 +1,8 @@
 # Data Science Curriculum
 
+## TODO
+- [ ] Add Data Engineering curriculum/resources
+
 ### Goals
 - Broad not narrow focus (i.e. more than deep learning)
 - Emphasis on fundamentals: theory over technology

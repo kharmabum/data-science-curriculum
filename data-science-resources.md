@@ -2,6 +2,7 @@
 # Data Science Resources
 
 - [Data Science Curriculum](https://github.com/kharmabum/data-science-curriculum)
+- [Data Engineering resources](https://pinboard.in/u:fototropik/t:data-engineering)
 
 ## Industry
 - [O'Reilly: 2015 Data Science Salary Survey]
