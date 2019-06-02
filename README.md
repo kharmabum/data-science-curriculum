@@ -3,7 +3,7 @@
 ### Goals
 - Broad not narrow focus (i.e. more than deep learning)
 - Emphasis on fundamentals: theory over technology
-- Present a clear, optimized path: separate essential areas of study from [practical resources](https://github.com/kharmabum/data-science-curriculum/blob/master/data-science-resources.md)
+- Present a clear, optimized path: separate essential areas of study from [practical resources](https://github.com/kharmabum/data-science-curriculum/blob/master/resources.md)
 - Assume strong software engineering foundation
 
 ## Foundations
